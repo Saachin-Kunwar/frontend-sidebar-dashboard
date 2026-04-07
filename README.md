@@ -14,11 +14,11 @@ This project demonstrates:
 
 🔥 Core Features
 1. 📂 Sidebar Navigation System
-Expand / Collapse sidebar with smooth animation
-Icon-only mode when collapsed
-Multiple toggle buttons (Navbar + Sidebar)
-Sticky sidebar for desktop layout
-Fixed overlay sidebar for mobile
+-Expand / Collapse sidebar with smooth animation
+-Icon-only mode when collapsed
+-Multiple toggle buttons (Navbar + Sidebar)
+-Sticky sidebar for desktop layout
+-Fixed overlay sidebar for mobile
 2. 🌙 Dark / Light Theme System
 Toggle between dark and light modes
 Automatically detects system theme (prefers-color-scheme)
